@@ -33,7 +33,7 @@
         <sdk-java.version>20170612154830</sdk-java.version>
         <javax.el.version>2.2.4</javax.el.version>
         <weixin4j-mp.version>1.7.9</weixin4j-mp.version>
-        <hibernate-validator.version>5.4.1.Final</hibernate-validator.version>
+        <hibernate-validator.version>5.4.2.Final</hibernate-validator.version>
         <mockito.version>2.8.47</mockito.version>
         <powermock.version>1.7.4</powermock.version>
         <log4j2.version>2.11.1</log4j2.version>
